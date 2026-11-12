@@ -1,0 +1,5 @@
+__pycache__/
+.env
+venv/
+.vscode/
+python_programming_8_week_tasks.pdf
